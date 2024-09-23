@@ -2,7 +2,7 @@
 <h3 align="center">An Aspiring Developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on AI Trip Planner website which is a MERN Stack based project with integration of several APIs , Also on a Language based project named OM - Your Personal voice Assistant by using python programming language. <br>👯 I’m looking to collaborate on various open source projects and Team projects.<br>🤝 I’m looking for an Internship / Job offers.<br>🌱 I’m currently learning Azure cloud services and Docker.<br>💬 Ask me about anything you need to know related to my projects or contact me through my Email ID - gautambhatt6022@gmail.com.
+🔭 I’m currently working on AI Trip Planner website which is a MERN Stack based project with integration of several APIs , Also on a     Language based project named OM - Your Personal voice Assistant by using python programming language. <br>👯 I’m looking to collaborate on various open source projects and Team projects.<br>🤝 I’m looking for an Internship / Job offers.<br>🌱 I’m currently learning Azure cloud services and Docker.<br>💬 Ask me about anything you need to know related to my projects or contact me through my Email ID - gautambhatt6022@gmail.com.
 
 
 ## 🌐 Socials:
