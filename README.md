@@ -22,10 +22,7 @@
 - **Node.js**, **Express.js**  
 
 ### 🗄️ Databases:
-- **MongoDB**, **FirebaseDB**, **Drizzle**, **Convex Database**  
-
-### ☁️ Cloud & DevOps:
-- **Azure Cloud Services**, **Docker**  
+- **MongoDB**, **SQL**  
 
 ### 🛠️ Tools & Platforms:
 - **VSCode**, **PyCharm**, **Figma**, **Git & GitHub**, **Google Colab**, **Replit**
